@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "3 สำเนา",
+  "identifier": "texture:242531-b699b61b-025e-46db-b08a-70c692623a4a",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "4266f42e862254ca64eb32d69239e747",
+  "assetLocator": "textures/3 สำเนา.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 62,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 131,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "4266f42e862254ca64eb32d69239e747",
+      "colorCount": 1962,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.643999083587955,
+      "pixelsHigh": 62,
+      "pixelsWide": 131
+    }
+  ]
+}
